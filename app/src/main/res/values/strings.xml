@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">Savics</string>
+  <string name="action_settings">Settings</string>
+
+  <string-array name="city_array">
+    <item>Paris</item>
+    <item>Brussels</item>
+    <item>Abidjan</item>
+  </string-array>
+
+  <string-array name="country_array">
+    <item>France</item>
+    <item>Belgium</item>
+    <item>Ivory Coast</item>
+  </string-array>
+</resources>
